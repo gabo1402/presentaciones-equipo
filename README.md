@@ -1,3 +1,3 @@
 # presentaciones-equipo
 
--Totti: Me gusta la música
+Me gusta la música
